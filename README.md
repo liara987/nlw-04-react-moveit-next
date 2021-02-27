@@ -1,42 +1,124 @@
-# NLW#04 - MoveIt
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-## Install the dependencies
-First, you need to install the dependencies from the package.json, so run on your terminal:
+<style>
+  img[src$="#liara"] {  
+    border-radius: 50%;    
+    display: absolute;
+    left: 50%;
+    right: 50%
+  }  
+  ul div{
+    list-style-type: none;
+  }
+</style>
+
+# MoviIt
+
+Este é um projeto desenvolvido no evento [NLW 04 - Next Level Week](https://nextlevelweek.com/inscricao/4) produzido pela [Rocketseat](https://rocketseat.com.br/). <br/>
+O MoveIt é uma aplicação que tem o objetivo de ajudar pessoas que passam muito tempo em frente ao computador se exercitarem. Esta é uma aplicação que utiliza cookies para armazenar os dados e foi desenvolvida em rect com next.
+
+### Recursos usados
+
+- [Typescript](https://www.typescriptlang.org/) (Linguagem)
+- [Next.js](https://nextjs.org/) (Framework)
+- [Node.js](https://nodejs.org/) (Back-end)
+- [React.js](https://reactjs.org/) (Front-end)
+- [Vercel](https://vercel.com/) (Deploy)
+
+## `Passo 1` - Clone esse repositório para sua máquina
+
+Tenha certeza de que o git foi instalado, e digite no CMD ou Terminal:
+
+```bash
+git clone git@github.com:liara987/nlw-04-react-moveit-next.git
+```
+
+## `Passo 2` - Instale softwares necessários para o projeto
+
+Instale o [Node.js](https://nodejs.org/) na versão mais recente.
+
+## `Passo 3` - Instale as dependências do projeto
+
+Abra a pasta do projeto no CMD ou Terminal (pode ser o do VSCode) e digite os comandos:
+<br/>
+<strong>
+O [yarn](https://yarnpkg.com/) precisa ser instalado.
+</strong>
 
 ```bash
 yarn
-# or
-yarn install
+# ou
+npm i
 ```
-## Getting Started
 
-First, run the development server:
+## `Passo 4` - Veja o resultado
+
+Rode o comando abaixo, abra essa url [http://localhost:3000](http://localhost:3000) e o projeto funcionando 😆
 
 ```bash
-npm run dev
-# or
 yarn dev
+# ou
+npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## `Passo 5` - Comece a modificar
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Para alterar o projeto você pode começar editando o `pages/index.js`.
+<br/>
+Assim que você salvar já vai ver a as modificações no navegador 😉
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## `Passo 6` - Estude mais
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Esse projeto usa Next.js, para mais informações desse framework segue os links:
 
-## Learn More
+- [Documentação Next](https://nextjs.org/docs) - Aprenda sobre as features e API do Next.js.
+- [Tutorial](https://nextjs.org/learn) - Um tutorial interativo de Next.js.
 
-To learn more about Next.js, take a look at the following resources:
+## `Passo 7` - Deploy da aplicação
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Para fazer o deploy (por em produção) é necessário criar uma conta na plataforma [Vercel](https://vercel.com/signup), no CMD ou Terminal digite os seguintes comando:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+# instale o vercel cli
+npm i -g vercel
 
-## Deploy on Vercel
+# faça o login com seu email registrado
+vercel login
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# fazer deploy de teste
+vercel
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#fazer deploy em produção
+vercel --prod
+```
+
+## Screenshots
+
+### Home
+
+![](/public/screenshots/home.png)
+
+### Novo Desafio
+
+![](/public/screenshots/novo-desafio.png)
+
+### Subiu de nivel
+
+![](/public/screenshots/subiu-nivel.png)
+
+</div>
+
+## Veja o projeto em produção clickando [Aqui](https://moveit-nlw-4-khaki.vercel.app/)
+
+<div align="center">
+
+![Liara](https://i.imgur.com/xbEfigR.jpg#liara)
+<br/>
+
+<strong> 
+  <p>Desenvolvedora</p>
+</strong>
+
+👩‍💻 [Linkedin](https://www.linkedin.com/in/liara-programadora/)
+
+🎦 [Youtube](https://tinyurl.com/liara-programadora)
+
+📸 [Instagram](https://www.instagram.com/liaraprogramadora)
