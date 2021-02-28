@@ -103,10 +103,6 @@ vercel --prod
 ![Liara](https://i.imgur.com/xbEfigR.jpg#liara)
 <br/>
 
-<strong> 
-  <p>Desenvolvedora</p>
-</strong>
-
 👩‍💻 [Linkedin](https://www.linkedin.com/in/liara-programadora/)
 
 🎦 [Youtube](https://tinyurl.com/liara-programadora)
