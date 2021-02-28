@@ -84,7 +84,7 @@ vercel --prod
 
 ### Profile
 
-![](/public/screenshots/home.png)
+![](/public/screenshots/profile.png)
 
 ### Novo Desafio
 
