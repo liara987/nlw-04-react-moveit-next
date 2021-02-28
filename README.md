@@ -21,11 +21,11 @@ Tenha certeza de que o git foi instalado, e digite no CMD ou Terminal:
 git clone git@github.com:liara987/nlw-04-react-moveit-next.git
 ```
 
-## `Passo 2` - Instale softwares necessários para o projeto 💽
+## `Passo 2` - Instale softwares necessários para o projeto 💿
 
 Instale o [Node.js](https://nodejs.org/) na versão mais recente.
 
-## `Passo 3` - Instale as dependências do projeto 💿
+## `Passo 3` - Instale as dependências do projeto 💽
 
 Abra a pasta do projeto no CMD ou Terminal (pode ser o do VSCode) e digite os comandos:
 <br/>
