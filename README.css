@@ -1,0 +1,9 @@
+img[src$="#liara"] {  
+    border-radius: 50%;    
+    display: absolute;
+    left: 50%;
+    right: 50%
+  }  
+  ul div{
+    list-style-type: none;
+  }
