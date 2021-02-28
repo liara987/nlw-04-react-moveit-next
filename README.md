@@ -1,11 +1,11 @@
 <link rel="stylesheet" type="text/css" media="all" href="README.css" />
 
-# MoviIt
+# MoviIt 🏃‍♀️
 
 Este é um projeto desenvolvido no evento [NLW 04 - Next Level Week](https://nextlevelweek.com/inscricao/4) produzido pela [Rocketseat](https://rocketseat.com.br/). <br/>
 O MoveIt é uma aplicação que tem o objetivo de ajudar pessoas que passam muito tempo em frente ao computador se exercitarem. Esta é uma aplicação que utiliza cookies para armazenar os dados e foi desenvolvida em rect com next.
 
-### Recursos usados
+### Recursos usados 
 
 - [Typescript](https://www.typescriptlang.org/) (Linguagem)
 - [Next.js](https://nextjs.org/) (Framework)
@@ -13,7 +13,7 @@ O MoveIt é uma aplicação que tem o objetivo de ajudar pessoas que passam muit
 - [React.js](https://reactjs.org/) (Front-end)
 - [Vercel](https://vercel.com/) (Deploy)
 
-## `Passo 1` - Clone esse repositório para sua máquina
+## `Passo 1` - Clone esse repositório para sua máquina 🖨️
 
 Tenha certeza de que o git foi instalado, e digite no CMD ou Terminal:
 
@@ -21,11 +21,11 @@ Tenha certeza de que o git foi instalado, e digite no CMD ou Terminal:
 git clone git@github.com:liara987/nlw-04-react-moveit-next.git
 ```
 
-## `Passo 2` - Instale softwares necessários para o projeto
+## `Passo 2` - Instale softwares necessários para o projeto 💽
 
 Instale o [Node.js](https://nodejs.org/) na versão mais recente.
 
-## `Passo 3` - Instale as dependências do projeto
+## `Passo 3` - Instale as dependências do projeto 💿
 
 Abra a pasta do projeto no CMD ou Terminal (pode ser o do VSCode) e digite os comandos:
 <br/>
@@ -39,9 +39,9 @@ yarn
 npm i
 ```
 
-## `Passo 4` - Veja o resultado
+## `Passo 4` - Veja o resultado 👀
 
-Rode o comando abaixo, abra essa url [http://localhost:3000](http://localhost:3000) e o projeto funcionando 😆
+Rode o comando abaixo, abra essa url [http://localhost:3000](http://localhost:3000) e o projeto funcionando 🎉
 
 ```bash
 yarn dev
@@ -49,20 +49,20 @@ yarn dev
 npm run dev
 ```
 
-## `Passo 5` - Comece a modificar
+## `Passo 5` - Comece a modificar 👩‍💻
 
 Para alterar o projeto você pode começar editando o `pages/index.js`.
 <br/>
 Assim que você salvar já vai ver a as modificações no navegador 😉
 
-## `Passo 6` - Estude mais
+## `Passo 6` - Estude mais 👩‍🎓
 
 Esse projeto usa Next.js, para mais informações desse framework segue os links:
 
 - [Documentação Next](https://nextjs.org/docs) - Aprenda sobre as features e API do Next.js.
 - [Tutorial](https://nextjs.org/learn) - Um tutorial interativo de Next.js.
 
-## `Passo 7` - Deploy da aplicação
+## `Passo 7` - Deploy da aplicação 🚀
 
 Para fazer o deploy (por em produção) é necessário criar uma conta na plataforma [Vercel](https://vercel.com/signup), no CMD ou Terminal digite os seguintes comando:
 
@@ -80,7 +80,7 @@ vercel
 vercel --prod
 ```
 
-## Screenshots
+## Screenshots 🖼️
 
 ### Home
 
