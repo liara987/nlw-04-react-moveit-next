@@ -1,14 +1,4 @@
-<style>
-  img[src$="#liara"] {  
-    border-radius: 50%;    
-    display: absolute;
-    left: 50%;
-    right: 50%
-  }  
-  ul div{
-    list-style-type: none;
-  }
-</style>
+<link rel="stylesheet" type="text/css" media="all" href="README.css" />
 
 # MoviIt
 
