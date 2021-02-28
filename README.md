@@ -1,15 +1,4 @@
-<style>
-  img[src$="#liara"] {  
-    border-radius: 50%;    
-    display: absolute;
-    left: 50%;
-    right: 50%
-  }  
-  ul div{
-    list-style-type: none;
-  }
-</style>
-
+<link rel="stylesheet" type="text/css" media="all" href="README.css" />
 # MoviIt
 
 Este é um projeto desenvolvido no evento [NLW 04 - Next Level Week](https://nextlevelweek.com/inscricao/4) produzido pela [Rocketseat](https://rocketseat.com.br/). <br/>
