@@ -3,7 +3,7 @@
 # MoviIt 🏃‍♀️
 
 Este é um projeto desenvolvido no evento [NLW 04 - Next Level Week](https://nextlevelweek.com/inscricao/4) produzido pela [Rocketseat](https://rocketseat.com.br/). <br/>
-O MoveIt é uma aplicação que tem o objetivo de ajudar pessoas que passam muito tempo em frente ao computador se exercitarem. Esta é uma aplicação que utiliza cookies para armazenar os dados e foi desenvolvida em rect com next.
+O MoveIt é uma aplicação que tem o objetivo de ajudar pessoas que passam muito tempo em frente ao computador se exercitarem. Esta é uma aplicação que utiliza cookies para armazenar os dados e foi desenvolvida em react com next.
 
 ### Recursos usados 
 
@@ -80,9 +80,9 @@ vercel
 vercel --prod
 ```
 
-## Screenshots 🖼️
+## `Screenshots` 🖼️
 
-### Home
+### Profile
 
 ![](/public/screenshots/home.png)
 
