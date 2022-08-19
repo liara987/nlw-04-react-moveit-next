@@ -21,9 +21,5 @@ O MoveIt é uma aplicação que tem o objetivo de ajudar pessoas que passam muit
 
 </div>
 
-<div align="center">
-
-![Liara](https://i.imgur.com/xbEfigR.jpg#liara)
-<br/>
-
+### Contato
 👩‍💻 [Linkedin](https://www.linkedin.com/in/liara-programadora/)
