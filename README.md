@@ -13,7 +13,7 @@ O MoveIt é uma aplicação que tem o objetivo de ajudar pessoas que passam muit
 - [React.js](https://reactjs.org/) (Front-end)
 - [Vercel](https://vercel.com/) (Deploy)
 
-## Use o MoviIt clickando [Aqui](https://moveit-nlw-4-khaki.vercel.app/)
+### Use o MoviIt clickando [Aqui](https://moveit-nlw-4-khaki.vercel.app/)
 
 ## `Screenshots` 🖼️
 
